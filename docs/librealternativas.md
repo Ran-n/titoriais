@@ -1,6 +1,7 @@
 # Alternativas libres ou abertas a programas ou servizos usuais.
+
 [:house:](readme.md)
-------
+
 ## Índice:
 * [Editores de Texto](librealternativas.md#editores-de-texto)
 * [Editores de Proxectos](librealternativas.md#editores-de-proxectos)
