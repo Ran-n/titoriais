@@ -1,6 +1,7 @@
 # Alternativas, consellos e tutoriais.
 
-## Índice:
+## Índice
+
 | Tipo | Ligazón |
 | ------------ | ------------- |
 | Listas | [Alternativas de software libres ou abertas](librealternativas.md) |
