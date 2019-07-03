@@ -7,12 +7,14 @@
 | Microsoft Word | LibreOffice | OpenOffice |
 
 ## Editores de Proxectos
-| Programa | Alternativas |
-| ------------ | ------------- |
+
+| Programa | Mellor Alternativa | Alternativa 2 | Alternativa 2 | | Alternativa 2 |
+| ------------ | ------------- | ------------- | ------------- | ------------- |
 | Microsoft Project | ProjectLibre | GanttProject | ToDoList | 2-plan Project Management Software | Open Workbench |
 
-| Tipo de programa        | Nome do programa  | Alternativas                                                                                 | 
-|-------------------------|-------------------|----------------------------------------------------------------------------------------------| 
+
+## Sin ordear
+
 | Buscador                | Google            | DuckDuckGo                                                                                   | 
 | Editor Videos           | Premiere Pro      | Kdenlive | Shotcut                                                                           | 
 | Editor Videos           | Sony Vegas        | Kdenlive | Shotcut                                                                           | 
