@@ -1,3 +1,5 @@
+[:house:](readme.md)
+
 # Alternativas libres ou abertas a programas ou servizos usuais.
 
 ## Índice:
