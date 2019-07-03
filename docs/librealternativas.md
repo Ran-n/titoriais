@@ -5,7 +5,9 @@
 ## Índice:
 * [Editores de Texto](librealternativas.md#editores-de-texto)
 * [Editores de Proxectos](librealternativas.md#editores-de-proxectos)
+
 ------
+
 ## Editores de Texto.
 
 | Programa 			| Mellor Alternativa 	| Alternativa 2 |
