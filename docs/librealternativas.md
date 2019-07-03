@@ -1,9 +1,18 @@
 # Alternativas libres ou abertas a programas ou servizos usuais.
 
+
+1. Editor de Texto.
+
+ Programa | Mellor Alternativa | Alternativa 2
+------------ | ------------- | -------------
+Microsoft Word | LibreOffice | OpenOffice
+
+
+
+
 | Tipo de programa        | Nome do programa  | Alternativas                                                                                 | 
 |-------------------------|-------------------|----------------------------------------------------------------------------------------------| 
 | Editor Proxectos        | Microsoft Project | ProjectLibre | GanttProject | ToDoList | 2-plan Project Management Software | Open Workbench | 
-| Editor Texto            | Microsoft Word    | LibreOffice | OpenOffice                                                                     | 
 | Buscador                | Google            | DuckDuckGo                                                                                   | 
 | Editor Videos           | Premiere Pro      | Kdenlive | Shotcut                                                                           | 
 | Editor Videos           | Sony Vegas        | Kdenlive | Shotcut                                                                           | 
