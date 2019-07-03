@@ -2,15 +2,15 @@
 
 ## Editores de Texto.
 
-| Programa | Mellor Alternativa | Alternativa 2 |
-| ------------ | ------------- | ------------- |
-| Microsoft Word | LibreOffice | OpenOffice |
+| Programa 			| Mellor Alternativa 	| Alternativa 2 |
+| ------------ 		| ------------- 		| ------------- |
+| Microsoft Word 	| LibreOffice 			| OpenOffice 	|
 
 ## Editores de Proxectos
 
-| Programa | Mellor Alternativa | Alternativa 2 | Alternativa 2 | | Alternativa 2 |
-| ------------ | ------------- | ------------- | ------------- | ------------- |
-| Microsoft Project | ProjectLibre | GanttProject | ToDoList | 2-plan Project Management Software | Open Workbench |
+| Programa 			| Mellor Alternativa 	| Alternativa 2 | Alternativa 3 | Alternativa 4 					 | Alternativa 5 	|
+| ------------ 		| ------------- 		| ------------- | ------------- | ------------- 					 | ------------- 	|
+| Microsoft Project | ProjectLibre 			| GanttProject 	| ToDoList 		| 2-plan Project Management Software | Open Workbench 	|
 
 
 ## Sin ordear
