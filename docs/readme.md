@@ -1,6 +1,6 @@
 # Alternativas, consellos e tutoriais.
 
-* [Alternativas de software libres ou abertas](librealternativas.csv)
+* [Alternativas de software libres ou abertas](librealternativas.md)
 
 
 First Header | Second Header
