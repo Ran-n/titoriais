@@ -3,9 +3,9 @@
 ## Índice:
 1. [Editor de Texto.](librealternativas.md#L6-L8)
 
-Programa | Mellor Alternativa | Alternativa 2
------------- | ------------- | -------------
-Microsoft Word | LibreOffice | OpenOffice
+| Programa | Mellor Alternativa | Alternativa 2 |
+| ------------ | ------------- | ------------- |
+| Microsoft Word | LibreOffice | OpenOffice |
 
 
 
