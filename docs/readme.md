@@ -1,6 +1,6 @@
 # Alternativas, consellos e tutoriais.
 
-## Índice
+## Táboa de contidos.
 
 | Tipo | Ligazón |
 | ------------ | ------------- |
