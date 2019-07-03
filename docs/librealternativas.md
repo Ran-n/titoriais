@@ -1,9 +1,9 @@
 # Alternativas libres ou abertas a programas ou servizos usuais.
 
+## Índice:
+1. [Editor de Texto.](librealternativas.md#L6-L8)
 
-1. Editor de Texto.
-
- Programa | Mellor Alternativa | Alternativa 2
+Programa | Mellor Alternativa | Alternativa 2
 ------------ | ------------- | -------------
 Microsoft Word | LibreOffice | OpenOffice
 
