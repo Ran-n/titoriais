@@ -1,7 +1,7 @@
 # Alternativas libres ou abertas a programas ou servizos usuais.
 
 ## Índice:
-1. [Editor de Texto.](librealternativas#L6-L8)
+1. [Editor de Texto.](librealternativas.md#L6-L8)
 
 | Programa | Mellor Alternativa | Alternativa 2 |
 | ------------ | ------------- | ------------- |
