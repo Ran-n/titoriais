@@ -6,9 +6,9 @@
 * [Buscadores](librealternativaswin.md#buscadores)
 * [Editores de Texto](librealternativaswin.md#editores-de-texto)
 * [Editores de Proxectos](librealternativaswin.md#editores-de-proxectos)
-* [Editores de Vídeos](librealternativaswin.md#editores-de-videos)
+* [Editores de Vídeos](librealternativaswin.md#editores-de-vídeos)
 * [Editores de Fotos](librealternativaswin.md#editores-de-fotos)
-* [Editores de Circuitos Lóxicos](librealternativaswin.md#editores-de-circuitos-loxicos)
+* [Editores de Circuitos Lóxicos](librealternativaswin.md#editores-de-circuitos-lóxicos)
 * [Programa de Finanzas](librealternativaswin.md#programas-de-finanzas)
 
 ------
