@@ -1,0 +1,63 @@
+# Alternativas libres ou abertas a programas ou servizos usuais.
+
+[:house:](readme.md)
+
+## Índice:
+* [Buscadores](librealternativaswin.md#buscadores)
+* [Editores de Texto](librealternativaswin.md#editores-de-texto)
+* [Editores de Proxectos](librealternativaswin.md#editores-de-proxectos)
+* [Editores de Vídeos](librealternativaswin.md#editores-de-videos)
+* [Editores de Fotos](librealternativaswin.md#editores-de-fotos)
+* [Editores de Circuitos Lóxicos](librealternativaswin.md#editores-de-circuitos-loxicos)
+* [Programa de Finanzas](librealternativaswin.md#programa-de-finanzas)
+
+------
+
+## Buscadores
+
+| Programa 			| Mellor Alternativa 	|
+| ------------ 		| ------------- 		|
+| Google			| DuckDuckGo			|
+
+## Editores de Texto.
+
+| Programa 			| Mellor Alternativa 	| Alternativa 2 |
+| ------------ 		| ------------- 		| ------------- |
+| Microsoft Word 	| LibreOffice 			| OpenOffice 	|
+
+
+## Editores de Proxectos
+
+| Programa 			| Mellor Alternativa 	| Alternativa 2 | Alternativa 3 | Alternativa 4 					 | Alternativa 5 	|
+| ------------ 		| ------------- 		| ------------- | ------------- | ------------- 					 | ------------- 	|
+| Microsoft Project | ProjectLibre 			| GanttProject 	| ToDoList 		| 2-plan Project Management Software | Open Workbench 	|
+
+
+## Editor de Vídeos
+
+| Programa 			| Mellor Alternativa 	| Alternativa 2 |
+| ------------ 		| ------------- 		| ------------- |
+| Premiere Pro 		| Kdenlive				| Shotcut		|
+| Sony Vegas		| Kdenlive				| Shotcut		|
+| Resolve			| Kdenlive				| Shotcut		|
+| Final Cut 		| Kdenlive				| Shotcut		|
+
+## Editor de Fotos
+
+| Programa 			| Mellor Alternativa 	|
+| ------------ 		| ------------- 		|
+| Photoshop			| Gimp					|
+
+
+## Editor Circuitos Lóxicos
+
+| Programa 			| Mellor Alternativa 	|
+| ------------ 		| ------------- 		|
+|					| gnucap 				|
+
+
+## Programa de Finanzas
+
+| Programa 			| Mellor Alternativa 	|
+| ------------ 		| ------------- 		|
+| 					| gnucash				|
