@@ -49,7 +49,7 @@
 | Photoshop			| Gimp					|
 
 
-## Editores Circuitos Lóxicos
+## Editores de Circuitos Lóxicos
 
 | Programa 			| Mellor Alternativa 	|
 | ------------ 		| ------------- 		|

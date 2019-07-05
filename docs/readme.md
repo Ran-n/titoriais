@@ -4,6 +4,6 @@
 
 ## Táboa de contidos.
 
-| Tipo | Ligazón |
+| Tipo | Sistema Operativo | Ligazón |
 | ------------ | ------------- |
-| Listas | [Alternativas de software libres ou abertas](librealternativaswin.md) |
+| Listas | Windows | [Alternativas de software libres ou abertas](librealternativaswin.md) |
