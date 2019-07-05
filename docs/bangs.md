@@ -5,20 +5,20 @@
 
 ------
 
-## Índice:
-	* [](bangs.md#diccionarios)
-	* [](bangs.md#wikipedia)
-	* [](bangs.md#compras)
-	..* [](bangs.md#amazon)
-	..* [](bangs.md#wallapop)
-	* [](bangs.md#yahoo)
-	* [](bangs.md#traductores)
-	* [](bangs.md#mapas)
-	..* [](bangs.md#mapas-abertos)
-	..* [](bangs.md#mapas-google)
-	* [](bangs.md#redes)
-	..* [](bangs.md#youtube)
-	..* [](bangs.md#twitter)
+## Índice
+* [Diccionarios](bangs.md#diccionarios)
+* [Wikipedia](bangs.md#wikipedia)
+* [Compras](bangs.md#compras)
+..* [Amazon](bangs.md#amazon)
+..* [Wallapop](bangs.md#wallapop)
+* [Yahoo](bangs.md#yahoo)
+* [Traductores](bangs.md#traductores)
+* [Mapas](bangs.md#mapas)
+..* [Abertos](bangs.md#mapas-abertos)
+..* [Google](bangs.md#mapas-google)
+* [Redes](bangs.md#redes)
+..* [Youtube](bangs.md#youtube)
+..* [Twitter](bangs.md#twitter)
 
 ------
 
