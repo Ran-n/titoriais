@@ -9,16 +9,16 @@
 * [Diccionarios](bangs.md#diccionarios)
 * [Wikipedia](bangs.md#wikipedia)
 * [Compras](bangs.md#compras)
-..* [Amazon](bangs.md#amazon)
-..* [Wallapop](bangs.md#wallapop)
+··* [Amazon](bangs.md#amazon)
+··* [Wallapop](bangs.md#wallapop)
 * [Yahoo](bangs.md#yahoo)
 * [Traductores](bangs.md#traductores)
 * [Mapas](bangs.md#mapas)
-..* [Abertos](bangs.md#mapas-abertos)
-..* [Google](bangs.md#mapas-google)
+··* [Abertos](bangs.md#mapas-abertos)
+··* [Google](bangs.md#mapas-google)
 * [Redes](bangs.md#redes)
-..* [Youtube](bangs.md#youtube)
-..* [Twitter](bangs.md#twitter)
+··* [Youtube](bangs.md#youtube)
+··* [Twitter](bangs.md#twitter)
 
 ------
 
