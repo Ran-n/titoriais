@@ -1,5 +1,7 @@
 # Alternativas, consellos e tutoriais.
 
+--------
+
 ## Táboa de contidos.
 
 | Tipo | Ligazón |
