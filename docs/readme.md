@@ -4,6 +4,7 @@
 
 ## Táboa de contidos.
 
-| Tipo | Sistema Operativo | Ligazón |
-| ------------ | ------------- |
-| Listas | Windows | [Alternativas de software libres ou abertas](librealternativaswin.md) |
+| Tipo 				| Plataforma 	| Ligazón 																|
+| ------------ 		| ------------- | ------------- 														|
+| Listas 			| Windows 		| [Alternativas de software libres ou abertas](librealternativaswin.md) |
+| Info 				| DuckDuckGo 	| [Lista de Bangs de DuckDuckGo](bangs.md) 								|
