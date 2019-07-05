@@ -23,18 +23,18 @@
 ------
 
 ## Diccionarios
-	!rag → real academia galega
-	!rae → real academia española
+	!rag  → real academia galega
+	!rae  → real academia española
 	!drae → real academia española
 
 ## Wikipedia
-	!w → wikipedia inglés
-	!wes → wikipedia español
+	!w 	  → wikipedia inglés
+	!wes  → wikipedia español
 	!wgal → wikipedia galego
 
 ## Compras
 ### Amazon
-	!a → amazon
+	!a   → amazon
 	!aes → amazon españa
 ### Wallapop
 	!wallapop → wallapop
@@ -51,22 +51,22 @@
 ### Mapas Google
 	!omap → open street maps
 	!gmap → google maps
-	!m → google maps
+	!m 	  → google maps
 
 ## Redes
 ### Youtube
-	!yt → youtube
-	!watch → youtube
-	!ytc → youtube channel
-	!ytp → youtube playlists
-	!yth → youtube history
-	!ytor → youtube on repeat
+	!yt 	→ youtube
+	!watch 	→ youtube
+	!ytc 	→ youtube channel
+	!ytp 	→ youtube playlists
+	!yth 	→ youtube history
+	!ytor 	→ youtube on repeat
 
 ### Twitter
-	!tw → twitter
-	!twitter → twitter
-	!tweet → twitter mobile
-	!@;twitter user page
+	!tw 		 → twitter
+	!twitter 	 → twitter
+	!tweet 		 → twitter mobile
+	!@			 → twitter user page
 	!twitteruser → twitter user page
-	!twuser → twitter user page
-	!hashtag → twitter hashtags
+	!twuser 	 → twitter user page
+	!hashtag 	 → twitter hashtags
