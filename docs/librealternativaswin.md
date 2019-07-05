@@ -9,7 +9,7 @@
 * [Editores de Vídeos](librealternativaswin.md#editores-de-videos)
 * [Editores de Fotos](librealternativaswin.md#editores-de-fotos)
 * [Editores de Circuitos Lóxicos](librealternativaswin.md#editores-de-circuitos-loxicos)
-* [Programa de Finanzas](librealternativaswin.md#programa-de-finanzas)
+* [Programa de Finanzas](librealternativaswin.md#programas-de-finanzas)
 
 ------
 
@@ -33,7 +33,7 @@
 | Microsoft Project | ProjectLibre 			| GanttProject 	| ToDoList 		| 2-plan Project Management Software | Open Workbench 	|
 
 
-## Editor de Vídeos
+## Editores de Vídeos
 
 | Programa 			| Mellor Alternativa 	| Alternativa 2 |
 | ------------ 		| ------------- 		| ------------- |
@@ -42,21 +42,21 @@
 | Resolve			| Kdenlive				| Shotcut		|
 | Final Cut 		| Kdenlive				| Shotcut		|
 
-## Editor de Fotos
+## Editores de Fotos
 
 | Programa 			| Mellor Alternativa 	|
 | ------------ 		| ------------- 		|
 | Photoshop			| Gimp					|
 
 
-## Editor Circuitos Lóxicos
+## Editores Circuitos Lóxicos
 
 | Programa 			| Mellor Alternativa 	|
 | ------------ 		| ------------- 		|
 |					| gnucap 				|
 
 
-## Programa de Finanzas
+## Programas de Finanzas
 
 | Programa 			| Mellor Alternativa 	|
 | ------------ 		| ------------- 		|
