@@ -7,6 +7,12 @@
 
 ## Índice
 * [Diccionarios](bangs.md#diccionarios)
+⋅⋅* [Galego](bangs.md#galego)
+⋅⋅* [Castellano](bangs.md#español)
+⋅⋅* [Inglés](bangs.md#inglés)
+⋅⋅* [Acrónimos](bangs.md#acrónimos)
+⋅⋅* [Médico](bangs.md#médico)
+⋅⋅* [Legal](bangs.md#legal)
 * [Wikipedia](bangs.md#wikipedia)
 * [Compras](bangs.md#compras)
 ⋅⋅* [Amazon](bangs.md#amazon)
@@ -23,13 +29,40 @@
 ------
 
 ## Diccionarios
-	!rag → real academia galega
-	!rae → real academia española
-	!drae → real academia española
+### Galego
+	!rag → academia galega
+### Castellano
+	!rae → academia castellana
+	!drae → academia castellana
+	!des → the free dictionary
+### Inglés
+	!fd → the free dictionary
+	!d → the free dictionary
+	!def → the free dictionary
+	!tfd → the free dictionary
+	!define → the free dictionary
+	!idioms → the free dictionary
+	!freedict → the free dictionary
+	!freedictionary → the free dictionary
+	!thefreedictionary → the free dictionary
+### Acrónimos
+	!tfdacronyms → the free dictionary acrónimos (inglés)
+### Médico
+	!medical → the free dictionary médico (inglés)
+	!tfdmedical → the free dictionary médico (inglés)
+### Legal
+	!tfdlegal → the free dictionary legal (inglés)
+
+
+
+
+## Enciclopedias
+### Inglés
+	!tfdencyclopedia → the free dictionary encyclopedia
 
 ## Wikipedia
 	!w → wikipedia inglés
-	!wes → wikipedia español
+	!wes → wikipedia castellano
 	!wgal → wikipedia galego
 
 ## Compras
