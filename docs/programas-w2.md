@@ -10,4 +10,8 @@
 
 ## Lista
 
+| Nome 		      	| Breve descripción 	                            |
+| ------------ 		| ------------- 		                              |
+| OBS		        	| Grabador de pantalla e para emitir en directo.	|
+
 ## Explicacións
