@@ -11,8 +11,8 @@
 ## Listado
 
 | Nome 		      	| Breve descripción 	                                                                                | Libre? |
-| ------------ 		| ------------- 		                                                                                  | *      |
-| OBS		        	| Gravador de pantalla e para emitir en directo.                                                      |        |
+| ------------ 		| ------------- 		                                                                                  | ------ |
+| OBS		        	| Gravador de pantalla e para emitir en directo.                                                      | *      |
 | Minecraft      	| Xogo de supervivencia e creatividade.          	                                                    |        |
 | Steam	        	| Plataforma para a compra e almacenamento de xogos.	                                                |        |
 | Uplay	        	| Plataforma para a compra e almacenamento de xogos de Ubisoft.	                                      |        |
