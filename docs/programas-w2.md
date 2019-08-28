@@ -3,15 +3,31 @@
 [:house:](readme.md)  
 
 ## Índice:
-* [Lista](programas-w2.md#lista)
+* [Listado](programas-w2.md#listado)
 * [Explicacións](programas-w2.md#explicacións)
 
 ------
 
-## Lista
+## Listado
 
-| Nome 		      	| Breve descripción 	                            |
-| ------------ 		| ------------- 		                              |
-| OBS		        	| Grabador de pantalla e para emitir en directo.	|
+| Nome 		      	| Breve descripción 	                                                                                |
+| ------------ 		| ------------- 		                                                                                  |
+| OBS		        	| Gravador de pantalla e para emitir en directo. LIBRE                                                |
+| Minecraft      	| Xogo de supervivencia e creatividade.          	                                                    |
+| Steam	        	| Plataforma para a compra e almacenamento de xogos.	                                                |
+| Uplay	        	| Plataforma para a compra e almacenamento de xogos de Ubisoft.	                                      |
+| LibreOffice    	| Editor de textos.	LIBRE                                                                             |
+| Audacity        | Gravación e edición de audio. LIBRE                                                                 |
+| AutoHotKey     	| Permite crear scripts moi útiles (con ligazóns de teclas, autotareas, etc).	                        |
+| Gimp           	| Editor de fotos. LIBRE                                                                              |
+| Nomacs         	| Visualizador de fotos.                                                                              |
+| VLC            	| Visualizador de videos e audio.                                                                     |
+| SumatraPDF     	| Visualizador de pdfs, rápido e simple.                                                              |
+| uTorrent       	| Xestor de descargas de torrentes.                                                                   |
+| jDownloader    	| Xestor de descargas de directas.                                                                    |
+| 7zip          	| Programa para descompresión e compresión de arquivos.                                               |
+| Nvidia Drivers 	| Drivers de Nvidia (só se tes unha tarxeta adicada desta marca).                                     |
+| Whatsapp       	| Programa para a conexión coa app.                                                                   |
+| Telegram       	| Programa para a conexión coa app.                                                                   |
 
 ## Explicacións
