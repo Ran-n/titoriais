@@ -19,4 +19,5 @@
 | ------------ 		| ------------- | ------------- 														|
 | Listas 			| Windows 		| [Alternativas de software libres ou abertas](librealternativaswin.md) |
 | Info 				| DuckDuckGo 	| [Lista de Bangs de DuckDuckGo](bangs.md) 								|
-| Libreboot 		| Thinkpad x60 	| [Proceso de Librebooteo do meu Thinkpad x60](libreboot-x60.md) 		|
+| Libreboot 	| Thinkpad x60 	| [Proceso de Librebooteo do meu Thinkpad x60](libreboot-x60.md) 		|
+| Listas   		| Windows    	| [Programas interesantes para windows](programas-w2.md) 		|
