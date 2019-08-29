@@ -27,10 +27,12 @@
 | jDownloader       	| Xestor de descargas de directas.                                                                    |        |
 | 7zip          	    | Programa para descompresión e compresión de arquivos.                                               | *      |
 | Nvidia Drivers 	    | Drivers de Nvidia (só se tes unha tarxeta adicada desta marca).                                     |        |
-| Whatsapp          	| Programa para a conexión coa app.                                                                   |        |
-| Telegram       	    | Programa para a conexión coa app.                                                                   |        |
+| Whatsapp          	| Para a conexión coa app.                                                                            |        |
+| Telegram       	    | Para a conexión coa app.                                                                            |        |
 | Ubuntu for Windows  | Subsistema ubuntu para Windows, permitenos usar os comandos clásicos.                               |        |
-| Sublime Text        | Programa para a edición de ficheiros e programación.                                                |        |
-| Atom                | Programa para a edición de ficheiros e programación.                                                |        |
+| Sublime Text        | Edición de ficheiros e programación.                                                                |        |
+| Atom                | Edición de ficheiros e programación.                                                                |        |
+| VirtualBox          | Virtualizador de entornos.                                                                          |        |
+| Tor Browser         | Browser seguro na rede Tor.                                                                         |        |
 
 ## Explicacións
