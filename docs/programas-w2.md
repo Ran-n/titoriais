@@ -30,5 +30,7 @@
 | Whatsapp          	| Programa para a conexión coa app.                                                                   |        |
 | Telegram       	    | Programa para a conexión coa app.                                                                   |        |
 | Ubuntu for Windows  | Subsistema ubuntu para Windows, permitenos usar os comandos clásicos.                               |        |
+| Sublime Text        | Programa para a edición de ficheiros e programación.                                                |        |
+| Atom                | Programa para a edición de ficheiros e programación.                                                |        |
 
 ## Explicacións
