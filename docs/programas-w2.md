@@ -34,5 +34,6 @@
 | Atom                | Edición de ficheiros e programación.                                                                |        |
 | VirtualBox          | Virtualizador de entornos.                                                                          |        |
 | Tor Browser         | Browser seguro na rede Tor.                                                                         |        |
+| Python3             | Linguaxe de programación.                                                                           |        |
 
 ## Explicacións
