@@ -35,5 +35,6 @@
 | VirtualBox          | Virtualizador de entornos.                                                                          |        |
 | Tor Browser         | Browser seguro na rede Tor.                                                                         |        |
 | Python3             | Linguaxe de programación.                                                                           |        |
+| R                   | Linguaxe de programación e análise estatístico sobre todo.                                          |        |
 
 ## Explicacións
