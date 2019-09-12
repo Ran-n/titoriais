@@ -36,5 +36,6 @@
 | Tor Browser         | Browser seguro na rede Tor.                                                                         |        |
 | Python3             | Linguaxe de programación.                                                                           |        |
 | R                   | Linguaxe de programación e análise estatístico sobre todo.                                          |        |
+| Aegisub             | Programa de edición de ficheiros de subtítulos.                                                     | *      |
 
 ## Explicacións
