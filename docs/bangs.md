@@ -1,7 +1,10 @@
 # Bangs de DuckDuckGo útiles
-| url 			| url acortada	|
-| ------------- 	| -------------	|
-| duckduckgo.com 	| duck.com	|
+
+[:house:](readme.md)
+
+| url 		 | url acortada	 |
+| ------------   | ------------  |
+| duckduckgo.com | duck.com	 |
 
 ------
 
