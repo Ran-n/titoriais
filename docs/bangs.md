@@ -1,7 +1,7 @@
 # Bangs de DuckDuckGo útiles
-| url 				| url acortada	|
+| url 			| url acortada	|
 | ------------- 	| -------------	|
-| duckduckgo.com 	| duck.com		|
+| duckduckgo.com 	| duck.com	|
 
 ------
 
