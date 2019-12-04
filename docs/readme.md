@@ -1,7 +1,7 @@
 # Alternativas, consellos e tutoriais.
 ----
 
-[Esta páxina web](https://ran-n.github.io/tutos/)
+[Esta é a páxina web](https://ran-n.github.io/tutos/)
 
 ----
 
