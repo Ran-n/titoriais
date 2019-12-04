@@ -7,5 +7,5 @@
 
 ## Cambiar nome de usuario
 	sudo vim /etc/password
-  Buscar a columna co teu nome de usuario
-  O campo número 5 (cada :) é o do nome de usuario
+	Buscar a columna co teu nome de usuario
+	O campo número 5 (cada :) é o do nome de usuario
