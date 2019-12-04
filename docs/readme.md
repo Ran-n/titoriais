@@ -15,9 +15,9 @@
 
 ## Táboa de contidos.
 
-| Tipo 				| Plataforma 	| Ligazón 																|
-| ------------ 		| ------------- | ------------- 														|
-| Listas 			| Windows 		| [Alternativas de software libres ou abertas](librealternativaswin.md) |
-| Info 				| DuckDuckGo 	| [Lista de Bangs de DuckDuckGo](bangs.md) 								|
-| Libreboot 	| Thinkpad x60 	| [Proceso de Librebooteo do meu Thinkpad x60](libreboot-x60.md) 		|
-| Listas   		| Windows    	| [Programas interesantes para windows](programas-w2.md) 		|
+| Nome                                                                  | Tipo Contido       | Plataforma 	  |
+| ------------ 		                                                      | ------------ 		   | -------------  |
+| [Alternativas de software libres ou abertas](librealternativaswin.md) | Lista 			       | Windows 		    |
+| [Lista de Bangs de DuckDuckGo](bangs.md)                              | Lista				       | DuckDuckGo 	  |
+| [Proceso de Librebooteo do meu Thinkpad x60](libreboot-x60.md)        | Tutorial Libreboot | Thinkpad x60  	|
+| [Programas interesantes para windows](programas-w2.md)                | Lista              | Windows    	  |
