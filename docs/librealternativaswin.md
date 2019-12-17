@@ -68,3 +68,4 @@
 | ------------ 		| ------------- 		|
 | 		Excel solver			| Calc solver (tools>solver)				|
 | 					| LP solve IDE				|
+| 					| R (co paquete lpSolve)				|
