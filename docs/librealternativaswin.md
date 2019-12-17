@@ -10,6 +10,7 @@
 * [Editores de Fotos](librealternativaswin.md#editores-de-fotos)
 * [Editores de Circuitos Lóxicos](librealternativaswin.md#editores-de-circuitos-lóxicos)
 * [Programa de Finanzas](librealternativaswin.md#programas-de-finanzas)
+* [Programación Lineal](librealternativaswin.md#programación-lineal)
 
 ------
 
@@ -61,3 +62,9 @@
 | Programa 			| Mellor Alternativa 	|
 | ------------ 		| ------------- 		|
 | 					| gnucash				|
+
+## Programación Lineal
+| Programa 			| Mellor Alternativa 	|
+| ------------ 		| ------------- 		|
+| 		Excel solver			| Calc solver (tools>solver)				|
+| 					| LP solve IDE				|
