@@ -20,4 +20,4 @@
 * [Ligar portal do mundo co teito do nether](minecraft.md#ligar_portal_do_mundo_co_teito_do_nether)
 
 #### Ligar portal do mundo co teito do nether
-Vídeo tutorial por "Ray Works" https://www.youtube.com/watch?v=-mAoHdWPgmw
+Vídeo tutorial por "Ray Works" <https://www.youtube.com/watch?v=-mAoHdWPgmw>
