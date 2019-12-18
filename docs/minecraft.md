@@ -4,7 +4,7 @@
 
 ## Índice:
 * [Ferramentas](minecraft.md#ferramentas)
-* [Detalles versión 1.15](minecraft.md#version_1-15)
+* [Detalles versión 1.15](minecraft.md#versión_1-15)
 
 ------
 ## Ferramentas
