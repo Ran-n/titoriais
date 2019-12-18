@@ -36,6 +36,7 @@
 ## Diccionarios
 ### Galego
 	!rag → academia galega
+	!estraviz → dicionario de estraviz (lusista)
 ### Castellano
 	!rae → academia castellana
 	!drae → academia castellana
