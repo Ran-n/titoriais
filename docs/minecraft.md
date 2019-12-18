@@ -4,12 +4,12 @@
 
 ## Índice:
 * [Ferramentas](minecraft.md#ferramentas)
-* [Detalles versión 1.15](minecraft.md#1-15)
+* [Detalles versión 1.15](minecraft.md#version_1-15)
 
 ------
 ## Ferramentas
 
-## 1-15
+## Versión 1-15
 * [Granxas](minecraft.md#granxas)
 * [Bugs imprescindíbeis](minecraft.md#bugs_imprescindíveis)
 * [Misceláneo](minecraft.md#misceláneo)
