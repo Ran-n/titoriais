@@ -21,4 +21,5 @@
 | [Lista de Bangs de DuckDuckGo](bangs.md)                              | Lista				       | DuckDuckGo 	  |
 | [Proceso de Librebooteo do meu Thinkpad x60](libreboot-x60.md)        | Tutorial Libreboot | Thinkpad x60  	|
 | [Programas interesantes para windows](programas-w2.md)                | Lista              | Windows    	  |
-| [Compilación de minitutoriais GNU/Linux](minitutos.md)                | Tutorial           | GNU/Linux      |
+| [Compilación de minitutoriais GNU/Linux](minitutos.md)                | Tutorial           | LiGNUx(GNU/Linux)      |
+| [Información relativa ao xogo Minecraft](minecraft.md)                | Tutorial           | LiGNUx/Windows      |
