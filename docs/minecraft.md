@@ -2,14 +2,17 @@
 
 [:house:](readme.md)
 
-## Versións:
-* [1.15](minecraft.md#1.15)
-  * [Granxas](minecraft.md#granxas)
-  * [Bugs imprescindíbeis](minecraft.md#bugs_imprescindíveis)
-  * [Misceláneo](minecraft.md#misceláneo)
+## Índice:
+* [Ferramentas](minecraft.md#ferramentas)
+* [Detalles versión 1.15](minecraft.md#detalles_técnicos_de_minecraft_1.15)
 
 ------
-## Minecraft 1.15
+## Ferramentas
+
+## Detalles técnicos de minecraft 1.15
+* [Granxas](minecraft.md#granxas)
+* [Bugs imprescindíbeis](minecraft.md#bugs_imprescindíveis)
+* [Misceláneo](minecraft.md#misceláneo)
 
 ### Granxas
 ### Bugs imprescindíveis
