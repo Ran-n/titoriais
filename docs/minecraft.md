@@ -16,7 +16,7 @@
 
 ### Granxas
 ### Bugs imprescindíveis
-* [Romper bloques](minecraft.md#romper_bloques)
+* [Romper bloques](minecraft.md##romper_bloques)
 
 #### Romper bloques
 Funciona para todos os bloques non opacos como bloques de portal ou os que están ao redor do portal do end. Super sinxelo só unha unha seta vermella. Ligazón, "Ray Works" <https://www.youtube.com/watch?v=EgvsoLxC3iI>
