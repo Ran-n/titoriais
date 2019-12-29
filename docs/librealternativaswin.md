@@ -16,7 +16,8 @@
 
 ## Buscadores
 
-  Recomendada: DuckDuckGo
+    Recomendcións:
+    ► DuckDuckGo
 
 | Programa 			| Mellor Alternativa 	|
 | ------------ 		| ------------- 		|
@@ -37,6 +38,9 @@
 
 
 ## Editores de Vídeos
+    Recomendacións:
+    → Edicións simples:
+      ► Openshot
 
 | Programa 			| Mellor Alternativa 	| Alternativa 2 |
 | ------------ 		| ------------- 		| ------------- |
