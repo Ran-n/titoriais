@@ -16,6 +16,8 @@
 
 ## Buscadores
 
+  Recomendada: DuckDuckGo
+
 | Programa 			| Mellor Alternativa 	|
 | ------------ 		| ------------- 		|
 | Google			| DuckDuckGo			|
@@ -42,6 +44,8 @@
 | Sony Vegas		| Kdenlive				| Shotcut		|
 | Resolve			| Kdenlive				| Shotcut		|
 | Final Cut 		| Kdenlive				| Shotcut		|
+| Windows movie maker | Openshot |  |
+
 
 ## Editores de Fotos
 
