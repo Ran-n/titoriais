@@ -23,3 +23,4 @@
 | [Programas interesantes para windows](programas-w2.md)                | Lista              | Windows    	  |
 | [Compilación de minitutoriais GNU/Linux](minitutos.md)                | Tutorial           | LiGNUx (GNU/Linux)      |
 | [Guía de Minecraft](minecraft.md)                                     | Tutorial           | LiGNUx - Windows      |
+| [Guía para Star Wars: The Clone Wars](sw-cw.md)                                     | Guía               | Audiovisual      |
