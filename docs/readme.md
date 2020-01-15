@@ -19,6 +19,7 @@
 | ------------ 		                                                      	| ------------ 		 | -------------  		|
 | [Alternativas de software libres ou abertas](sw/librealternativaswin.md) 	| Lista 			 | Windows 		    	|
 | [Lista de Bangs de DuckDuckGo](sw/bangs.md)                              	| Lista				 | DuckDuckGo 	  		|
+| [Lista de códigos "Alt"](sw/altcodes.md) 		                          	| Lista				 | LiGNUx - Windows		|
 | [Proceso de Librebooteo do meu Thinkpad x60](sw/libreboot-x60.md)        	| Tutorial Libreboot | Thinkpad x60  		|
 | [Programas interesantes para windows](sw/programas-w2.md)                	| Lista              | Windows    	  		|
 | [Compilación de minitutoriais GNU/Linux](sw/minitutos.md)                	| Tutorial           | LiGNUx (GNU/Linux)   |
