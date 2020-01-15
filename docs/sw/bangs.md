@@ -1,6 +1,6 @@
 # Bangs de DuckDuckGo útiles
 
-[:house:](readme.md)
+[:house:](../readme.md)
 
 ------
 
