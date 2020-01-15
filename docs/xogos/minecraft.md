@@ -4,11 +4,19 @@
 
 ## Índice:
 * [Ferramentas](minecraft.md#ferramentas)
+* [Cambios entre versións](minecraft.md#cambios)
 * [Detalles versión 1.15](minecraft.md#1-15)
-* [Cambios de versións](minecraft.md#cambios)
 
 ------
 ## Ferramentas
+
+## Cambios
+* [1.15.2](minecraft.md#1-15-2)
+
+### 1-15-2
+* "Ilmango" <https://www.youtube.com/watch?v=-Pv8PEJJSfY>.
+* "Xisuma" <https://www.youtube.com/watch?v=kO6nlqB0fik&t=0s>, <https://www.youtube.com/watch?v=QoVwdflhoCQ&t=0s>.
+* "Ray Works" <https://www.youtube.com/watch?v=JOlnWD6_SqY&t=0s>.
 
 ## 1-15
 * [Granxas](minecraft.md#granxas)
@@ -27,11 +35,3 @@ Funciona para todos os bloques non opacos como bloques de portal ou os que está
 
 #### Ligar portal do mundo co teito do nether
 Vídeo tutorial por "Ray Works" <https://www.youtube.com/watch?v=-mAoHdWPgmw>.
-
-## Cambios
-* [1.15.2](minecraft.md#1-15-2)
-
-### 1-15-2
-* "Ilmango" <https://www.youtube.com/watch?v=-Pv8PEJJSfY>.
-* "Xisuma" <https://www.youtube.com/watch?v=kO6nlqB0fik&t=0s>, <https://www.youtube.com/watch?v=QoVwdflhoCQ&t=0s>.
-* "Ray Works" <https://www.youtube.com/watch?v=JOlnWD6_SqY&t=0s>.
