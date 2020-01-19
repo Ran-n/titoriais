@@ -1,8 +1,8 @@
 # Star Wars: The Clone Wars
 
 ## Índice:
-* [Episodios relevantes](sw-cw.md#episodiosrelevantes)
-* [Explicacións](sw-cw.md#frasesdosepisodios)
+* [Episodios relevantes](sw-cw.md#episodios_relevantes)
+* [Frases dos episodios](sw-cw.md#frases_dos_episodios)
 
 ------
 
@@ -76,7 +76,7 @@
 | 3x11 		    | "."			|
 | 3x12 		    | "The swiftest path to destruction is through vengeance."							|
 | 3x13 		    | "."			|
-| 3x14 		    | "."			|
+| 3x14 		    | "The path to evil may bring great power, but not loyalty."						|
 | 3x15 		    | "."			|
 | 3x16 		    | "."			|
 | 3x17 		    | "."			|
