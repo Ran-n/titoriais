@@ -29,7 +29,7 @@
 
 | Nome                                                                  	| Tipo Contido       | Plataforma 	  		|
 | ------------ 		                                                      	| ------------ 		 | -------------  		|
-| [Guía de Minecraft](xogos/minecraft/minecraft.md)                         | Información        | LiGNUx - Windows     |
+| [Guía de Minecraft](xogos/minecraft/indice.md)                         | Información        | LiGNUx - Windows     |
 
 ### Audiovisual
 
