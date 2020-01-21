@@ -1,6 +1,6 @@
 # Alternativas libres ou abertas a programas ou servizos usuais.
 
-[:house:](readme.md)
+[:house:](../README.md)
 
 ## Índice:
 * [Cambiar nome de usuario](minitutos.md#Cambiar-nome-de-usuario)

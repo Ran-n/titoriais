@@ -1,6 +1,6 @@
 # Granxas para Minecraft
 
-[:house:](../../readme.md)
+[:house:](../../README.md)
 
 ## Índice:
 * [Whither Roses](indice.md##whiter_roses)

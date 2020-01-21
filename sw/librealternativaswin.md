@@ -1,6 +1,6 @@
 # Alternativas libres ou abertas a programas ou servizos usuais.
 
-[:house:](readme.md)
+[:house:](../README.md)
 
 ## Índice:
 * [Buscadores](librealternativaswin.md#buscadores)

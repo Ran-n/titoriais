@@ -1,6 +1,6 @@
 # Altcodes
 
-[:house:](../readme.md)
+[:house:](../README.md)
 
 ------
 

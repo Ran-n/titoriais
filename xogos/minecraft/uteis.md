@@ -1,6 +1,6 @@
 # Información útil para Minecraft
 
-[:house:](../../readme.md)
+[:house:](../../README.md)
 
 ## Índice:
 * [](uteis.md#)

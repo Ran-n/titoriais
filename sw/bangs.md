@@ -1,12 +1,12 @@
 # Bangs de DuckDuckGo útiles
 
-[:house:](../readme.md)
+[:house:](../README.md)
 
 ------
 
-| url 		 | url acortada	 |
-| ------------   | ------------  |
-| duckduckgo.com | duck.com	 |
+| url 		 		| url acortada	|
+| ------------   	| ------------	|
+| duckduckgo.com 	| duck.com 		|
 
 ------
 
