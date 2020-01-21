@@ -1,11 +1,13 @@
 # Minecraft técnico.
 
-[:house:](readme.md)
+[:house:](../../readme.md)
 
 ## Índice:
 * [Ferramentas](minecraft.md#ferramentas)
+* [Granxas](granxas_mc.md)
 * [Cambios entre versións](minecraft.md#cambios)
 * [Detalles versión 1.15](minecraft.md#1-15)
+
 
 ------
 ## Ferramentas
@@ -24,6 +26,16 @@
 * [Misceláneo](minecraft.md#misceláneo)
 
 ### Granxas
+* [Whither Roses](minecraft.md##whiter_roses)
+
+#### Whiter Roses
+
+| Creador		| Versión	| Productividade	| Ligazón tutorial								| 
+| ------		| ------	| ------			| ------										|
+|EagleEye621	| 1.15		| Baixa				| https://www.youtube.com/watch?v=xkgmPI8SCmQ	|
+
+
+
 ### Bugs imprescindíveis
 * [Romper bloques](minecraft.md##romper_bloques)
 

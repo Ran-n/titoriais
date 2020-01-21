@@ -23,5 +23,5 @@
 | [Proceso de Librebooteo do meu Thinkpad x60](sw/libreboot-x60.md)        	| Tutorial Libreboot | Thinkpad x60  		|
 | [Programas interesantes para windows](sw/programas-w2.md)                	| Lista              | Windows    	  		|
 | [Compilación de minitutoriais GNU/Linux](sw/minitutos.md)                	| Tutorial           | LiGNUx (GNU/Linux)   |
-| [Guía de Minecraft](xogos/minecraft.md)                                   | Tutorial           | LiGNUx - Windows     |
+| [Guía de Minecraft](xogos/minecraft/minecraft.md)                                   | Tutorial           | LiGNUx - Windows     |
 | [Guía para Star Wars: The Clone Wars](series/sw-cw.md)                    | Guía               | Audiovisual      	|
