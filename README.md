@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Alternativas, consellos e tutoriais.
+----
 
-You can use the [editor on GitHub](https://github.com/Ran-n/tutos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Esta é a páxina web](https://ran-n.github.io/tutos/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+----
 
-### Markdown
+## Donations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Coin 			| Address 										|
+| ------------ 	| ------------ 									|
+| Bitcoin 		| bc1q4gj3t0f4aulrn7z3dtgfxrxsv5c323x5yzvz7r 	|
 
-```markdown
-Syntax highlighted code block
+----
 
-# Header 1
-## Header 2
-### Header 3
+## Táboa de contidos.
+### Software
 
-- Bulleted
-- List
+| Nome                                                                  	| Tipo Contido       | Plataforma 	  		|
+| ------------ 		                                                      	| ------------ 		 | -------------  		|
+| [Alternativas de software libres ou abertas](sw/librealternativaswin.md) 	| Lista 			 | Windows 		    	|
+| [Lista de Bangs de DuckDuckGo](sw/bangs.md)                              	| Lista				 | DuckDuckGo 	  		|
+| [Lista de códigos "Alt"](sw/altcodes.md) 		                          	| Lista				 | LiGNUx - Windows		|
+| [Proceso de Librebooteo do meu Thinkpad x60](sw/libreboot-x60.md)        	| Tutorial Libreboot | Thinkpad x60  		|
+| [Programas interesantes para windows](sw/programas-w2.md)                	| Lista              | Windows    	  		|
+| [Compilación de minitutoriais GNU/Linux](sw/minitutos.md)                	| Tutorial           | LiGNUx (GNU/Linux)   |
 
-1. Numbered
-2. List
+### Xogos
 
-**Bold** and _Italic_ and `Code` text
+| Nome                                                                  	| Tipo Contido       | Plataforma 	  		|
+| ------------ 		                                                      	| ------------ 		 | -------------  		|
+| [Guía de Minecraft](xogos/minecraft/minecraft.md)                         | Información        | LiGNUx - Windows     |
 
-[Link](url) and ![Image](src)
-```
+### Audiovisual
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ran-n/tutos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Nome                                                                  	| Tipo Contido       |
+| ------------ 		                                                      	| ------------ 		 |
+| [Guía para Star Wars: The Clone Wars](series/sw-cw.md)                    | Guía               |
