@@ -20,8 +20,8 @@
 Ligazón coa túa seed:
 	https://chunkbase.com/apps/buscador#seed
 
-- Buscador de chunks de slime 	<https://chunkbase.com/apps/slime-finder>
-- Buscador de vilas 	<https://chunkbase.com/apps/village-finder>
+- [Buscador de chunks de slime]<https://chunkbase.com/apps/slime-finder>
+- Buscador de vilas <https://chunkbase.com/apps/village-finder>
 - Buscador de mineshafts <https://chunkbase.com/apps/mineshaft-finder>
 - Buscador de fortalezas do nether <https://chunkbase.com/apps/nether-fortress-finder>
 - Buscador de stronghold <https://chunkbase.com/apps/stronghold-finder>
