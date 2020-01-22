@@ -1,6 +1,6 @@
 # Granxas para Minecraft
 
-[🏠 Inicio](../../README.md)
+[🏠Inicio](../../README.md)
 
 ## Índice:
 * [Granxa de rosa de whither](granxas.md#rosa_whiter)
@@ -9,7 +9,7 @@
 
 ------
 	
-Lenda:
+##Lenda:
 	- Desenrolo: Nivel de desenrolo preciso ter alcanzado para realizar a granxa.
 		* Primitivo: Non precisa de ningunha clas de desenrolo nen coñecemento.
 		* Meio: Precisa unha partida xa encetada máis nada díficil se se segue o tutorial.
@@ -32,7 +32,11 @@ Lenda:
 | ------		| ------			| ------		| ------	| ------													|
 | Rays Works	| 1.15.1 - 1.15.2	| Sim			| Meio		| "Rays Works"<https://www.youtube.com/watch?v=TDnppbTrdks>	|
 
-%## 
-%| Creador	| Versión	| Automática	| Desenrolo	| Ligazón tutorial											| 
-%| ------	| ------	| ------		| ------	| ------													|
-%| 	| 	| 			| 	| ""<>	|
+
+
+
+
+
+| Creador	| Versión	| Automática	| Desenrolo	| Ligazón tutorial											| 
+| ------	| ------	| ------		| ------	| ------													|
+| 	| 	| 			| 	| ""<>	|
