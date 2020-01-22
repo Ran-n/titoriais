@@ -1,10 +1,11 @@
 # Granxas para Minecraft
 
-[Inicio 🏠](../../README.md)
+[🏠 Inicio](../../README.md)
 
 ## Índice:
-* [Whither Roses](indice.md##rosa_whiter)
-* [Panal de abella](indice.md##colmea_de_abella)
+* [Granxa de rosa de whither](granxas.md#rosa_whiter)
+* [Granxa de colmea de abella](granxas.md#colmea_de_abella)
+* [Granxa de raids](granxas.md#raid)
 
 ------
 	
@@ -27,12 +28,12 @@
 | ------	| ------	| ------		| ------	| ------													|
 | Ilmango	| 1.15.2	| Sim			| Meio		| "Ilmango"<https://www.youtube.com/watch?v=GU0oqNf0Sgk>	|
 
+## Raid
+| Creador		| Versión			| Automática	| Desenrolo	| Ligazón tutorial											| 
+| ------		| ------			| ------		| ------	| ------													|
+| Rays Works	| 1.15.1 - 1.15.2	| Sim			| Meio		| "Rays Works"<https://www.youtube.com/watch?v=TDnppbTrdks>	|
 
-
+## 
+| Creador	| Versión	| Automática	| Desenrolo	| Ligazón tutorial											| 
+| ------	| ------	| ------		| ------	| ------													|
 | 	| 	| 			| 	| ""<>	|
-
-
-
-bee nest farm
-https://www.youtube.com/watch?v=GU0oqNf0Sgk
-Ilmango

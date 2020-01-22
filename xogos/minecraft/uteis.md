@@ -1,6 +1,6 @@
 # Información útil para Minecraft
 
-[Inicio 🏠](../../README.md)
+[🏠 Inicio](../../README.md)
 
 ## Índice:
 * [](uteis.md#)
