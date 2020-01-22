@@ -1,6 +1,6 @@
 # Cambios entre versións (dende a 1.15.1)
 
-[:house:](../../README.md)
+[Inicio 🏠](../../README.md)
 
 ## Índice:
 * [1.15.2](cambios_versions#1-15-2)

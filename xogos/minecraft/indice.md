@@ -1,7 +1,6 @@
 # Guía para Minecraft técnico.
 
-[:house:](../../README.md)
-[🏠](../../README.md)
+[Inicio 🏠](../../README.md)
 
 ## Índice:
 * [Granxas](granxas.md)
