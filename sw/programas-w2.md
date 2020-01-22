@@ -1,6 +1,6 @@
 # Programas interesantes para ter en Windows.
 
-[🏠Inicio](../../README.md)
+[🏠Inicio](../README.md)
 
 ## Índice:
 * [Listado](programas-w2.md#listado)

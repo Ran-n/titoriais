@@ -1,6 +1,6 @@
 # Libreboot un x60
 
-[🏠Inicio](../../README.md)
+[🏠Inicio](../README.md)
 
 ## Índice:
 * []()
