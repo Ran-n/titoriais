@@ -1,5 +1,12 @@
 # Libreboot un x60
 
+[🏠Inicio](../../README.md)
+
+## Índice:
+* []()
+
+------
+
 ## Seguín este video de Luke Smith
 [Luke Smith - Install Libreboot on X60/T60 ThinkPads (muh freedumbs edition)](https://www.youtube.com/watch?v=1K5jo9gk9LQ)
 

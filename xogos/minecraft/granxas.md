@@ -10,10 +10,11 @@
 ------
 	
 ## Lenda:
-	- Desenrolo: Nivel de desenrolo preciso ter alcanzado para realizar a granxa.
-		* Primitivo: Non precisa de ningunha clas de desenrolo nen coñecemento.
-		* Meio: Precisa unha partida xa encetada máis nada díficil se se segue o tutorial.
-	- Automática: Indica se se pode deixar funcionando sen estarmos presentes. Sinónimo de AFK.
+- Desenrolo: Nivel de desenrolo preciso ter alcanzado para realizar a granxa.
+	* Primitivo: Non precisa de ningunha clas de desenrolo nen coñecemento.
+	* Meio: Precisa unha partida xa encetada máis nada díficil se se segue o tutorial.
+	
+- Automática: Indica se se pode deixar funcionando sen estarmos presentes. Sinónimo de AFK.
 
 ------
 

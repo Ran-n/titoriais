@@ -1,6 +1,6 @@
 # Bangs de DuckDuckGo útiles
 
-[:house:](../README.md)
+[🏠Inicio](../../README.md)
 
 ------
 

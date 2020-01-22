@@ -1,6 +1,6 @@
 # Altcodes
 
-[:house:](../README.md)
+[🏠Inicio](../../README.md)
 
 ------
 

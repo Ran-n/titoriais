@@ -1,6 +1,6 @@
 # Star Wars: The Clone Wars
 
-[:house:](../README.md)
+[🏠Inicio](../../README.md)
 
 ------
 
