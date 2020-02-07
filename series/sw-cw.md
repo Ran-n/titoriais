@@ -86,3 +86,28 @@
 | 3x17 		    | "."			|
 | 3x18 		    | "."			|
 | 3x19 		    | "."			|
+| 3x20 		    | "."			|
+| 3x21 		    | "."			|
+| 3x22 		    | "."			|
+| 4x01 		    | "."			|
+| 4x02 		    | "."			|
+| 4x03 		    | "."			|
+| 4x04 		    | "."			|
+| 4x05 		    | "."			|
+| 4x06 		    | "."			|
+| 4x07 		    | "The first step towards loyalty is trust."										|
+| 4x08 		    | "The path of ignorance is guided by fear."										|
+| 4x09 		    | "The wise men leads, the strong man follows."										|
+| 4x10 		    | "."			|
+| 4x11 		    | "."			|
+| 4x12 		    | "."			|
+| 4x13 		    | "."			|
+| 4x14 		    | "."			|
+| 4x15 		    | "."			|
+| 4x16 		    | "."			|
+| 4x17 		    | "."			|
+| 4x18 		    | "."			|
+| 4x19 		    | "."			|
+| 4x20 		    | "."			|
+| 4x21 		    | "."			|
+| 4x22 		    | "."			|
