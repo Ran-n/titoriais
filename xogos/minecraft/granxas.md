@@ -6,6 +6,8 @@
 * [Granxa de rosa de whither](granxas.md#rosa_whiter)
 * [Granxa de colmea de abella](granxas.md#colmea_de_abella)
 * [Granxa de raids](granxas.md#raid)
+* [Granxa de Weeping Vine](granxas.md#weeping_vine)
+* [Granxa de Nylum](granxas.md#nylum)
 
 ------
 	
@@ -38,6 +40,19 @@
 | ------		| ------			| ------		| ------	| ------													|
 | Rays Works	| 1.15.1 - 1.15.2	| Sim			| Meio		| "Rays Works"<https://www.youtube.com/watch?v=TDnppbTrdks>	|
 
+
+## Weeping Vine
+
+| Creador	| Versión	| Automática	| Desenrolo	| Ligazón tutorial											| 
+| ------	| ------	| ------		| ------	| ------													|
+| Ilmango	| 20w06a	| Sim (0tick)	| Meio		| "Ilmango"<https://www.youtube.com/watch?v=VWbc8GNnkns>	|
+
+
+## Nylum
+
+| Creador	| Versión	| Automática	| Desenrolo	| Ligazón tutorial										| 
+| ------	| ------	| ------		| ------	| ------												|
+| docm77	| 20w06a	| sim			| Meio		| "docm77"<https://www.youtube.com/watch?v=h81IMudheus>	|
 
 
 
