@@ -26,7 +26,7 @@
 | [Proceso de Librebooteo do meu Thinkpad x60](sw/libreboot-x60.md)        						| Tutorial Libreboot | Thinkpad x60  		|
 | [Programas interesantes para windows](sw/programas-w2.md)                						| Lista              | Windows    	  		|
 | [Compilación de minitutoriais GNU/Linux](sw/minitutos.md)					                	| Tutorial           | LiGNUx (GNU/Linux)   |
-| [Guiá de instalación e configuración de Archlinux](sw/install_arch_linux.md)                	| Tutorial           | LiGNUx (GNU/Linux)   |
+| [Guia de instalación e configuración de Archlinux](sw/install_arch_linux.md)                	| Tutorial           | LiGNUx (GNU/Linux)   |
 
 ### Xogos
 
