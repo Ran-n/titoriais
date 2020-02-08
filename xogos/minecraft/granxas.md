@@ -46,13 +46,22 @@
 | Creador	| Versión	| Automática	| Desenrolo	| Ligazón tutorial											| 
 | ------	| ------	| ------		| ------	| ------													|
 | Ilmango	| 20w06a	| Sim (0tick)	| Meio		| "Ilmango"<https://www.youtube.com/watch?v=VWbc8GNnkns>	|
-
+| Ray Works	| 20w06a	| Sim (0tick)	| Meio		| "RayWorks"<https://youtu.be/5ltZXyMrNqY?t=184>	|
 
 ## Nylum
 
 | Creador	| Versión	| Automática	| Desenrolo	| Ligazón tutorial										| 
 | ------	| ------	| ------		| ------	| ------												|
 | docm77	| 20w06a	| sim			| Meio		| "docm77"<https://www.youtube.com/watch?v=h81IMudheus>	|
+
+
+## Portas
+
+| Creador	| Versión	| Automática	| Desenrolo	| Ligazón tutorial											| 
+| ------	| ------	| ------		| ------	| ------													|
+| RayWorks	| 20w06a	| Sim			| Baixo		| "RayWorks"<https://youtu.be/5ltZXyMrNqY?t=25>	|
+
+
 
 
 
