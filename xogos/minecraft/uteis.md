@@ -6,6 +6,7 @@
 * [Como ligar un portal co teito do nether](uteis.md#como_ligar_portal_co_teito_do_nether)
 * [Como mellor atopar Netherite](uteis.md#como_mellor_atopar_netherite)
 * [Varios](uteis.md#varios)
+* [Reiniciar chunks](uteis.md#reiniciar_chunks)
 * [](uteis.md#)
 
 ------
@@ -26,3 +27,6 @@
 
 "Ray Works" <https://www.youtube.com/watch?v=ymcThU_Xe00>
 
+### Reiniciar chunks
+
+"Pixlriffs" <https://www.youtube.com/watch?v=p-2gFkJl_Lo>
