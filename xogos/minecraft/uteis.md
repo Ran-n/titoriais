@@ -17,11 +17,12 @@
 
 ## Como mellor atopar netherite
 
+"gnembon" <https://www.youtube.com/watch?v=jhQPasMN5WA>
 "ElRichMC" <https://www.youtube.com/watch?v=uaeW53ij4L4>
-
 
 ## Varios
 
 ### Como conseguir tódolos obxectos da 20w06a
 
 "Ray Works" <https://www.youtube.com/watch?v=ymcThU_Xe00>
+
