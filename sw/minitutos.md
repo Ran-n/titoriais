@@ -7,6 +7,7 @@
 * [Eliminar o ^M ao final de linha](minitutos.md#eliminar-o-^m-ao-final-de-linha)
 * [Saber a distribución de Linux](minitutos.md#distribucion-linux)
 * [](minitutos.md#)
+* [](minitutos.md#)
 
 ------
 
@@ -24,3 +25,10 @@
 	cat /proc/version
 	cat /etc/issue
 	cat /etc/os-release
+
+## Mostrar espacio en disco
+	df -h
+	se queremos só o escritorio home (ou calquer carpeta)
+	df -h /home
+	con "-T" mostraranos o tipo de sistema de ficheiros
+	df -hT /home
