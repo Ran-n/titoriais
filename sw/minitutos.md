@@ -6,7 +6,7 @@
 * [Cambiar nome de usuario](minitutos.md#Cambiar-nome-de-usuario)
 * [Eliminar o ^M ao final de linha](minitutos.md#eliminar-o-^m-ao-final-de-linha)
 * [Saber a distribución de Linux](minitutos.md#distribucion-linux)
-* [](minitutos.md#)
+* [Mostrar espazo en disco](minitutos.md#mostrar-espazo-en-disco)
 * [](minitutos.md#)
 
 ------
@@ -26,7 +26,7 @@
 	cat /etc/issue
 	cat /etc/os-release
 
-## Mostrar espacio en disco
+## Mostrar espazo en disco
 	df -h
 	se queremos só o escritorio home (ou calquer carpeta)
 	df -h /home
