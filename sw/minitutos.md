@@ -7,6 +7,7 @@
 * [Eliminar o ^M ao final de linha](minitutos.md#eliminar-o-^m-ao-final-de-linha)
 * [Saber a distribución de Linux](minitutos.md#distribucion-linux)
 * [Mostrar espazo en disco](minitutos.md#mostrar-espazo-en-disco)
+* [Exemplo pandoc](minitutos.md#exemplo-pandoc)
 * [](minitutos.md#)
 
 ------
@@ -32,3 +33,8 @@
 	df -h /home
 	con "-T" mostraranos o tipo de sistema de ficheiros
 	df -hT /home
+
+## Exemplo pandoc
+	Exemplo de markdown a pdf:
+	pandoc -f markdown -t pdf referencia.md
+	tipos de formato posibles vense na páxina man
