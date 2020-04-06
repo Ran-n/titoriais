@@ -8,6 +8,7 @@
 * [Saber a distribución de Linux](minitutos.md#distribucion-linux)
 * [Mostrar espazo en disco](minitutos.md#mostrar-espazo-en-disco)
 * [Exemplo pandoc](minitutos.md#exemplo-pandoc)
+* [Restaurar usb (Windows)](minitutos.md#restaurar-usb-windows)
 * [](minitutos.md#)
 
 ------
@@ -38,3 +39,12 @@
 	Exemplo de markdown a pdf:
 	pandoc -f markdown -t pdf referencia.md
 	tipos de formato posibles vense na páxina man
+
+## Restaurar usb windows
+	Abrir diskpart (win+r e escribir diskpart)
+	List Disk
+	Select Disk NumDisco
+	clean
+	Create Partition Primary
+	Active
+	Format fs=Fat32 Quick
