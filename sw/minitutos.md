@@ -11,6 +11,8 @@
 * [Imprimir json de forma bonita no terminal](minitutos.md#json-terminal)
 * [Restaurar usb (Windows)](minitutos.md#restaurar-usb-windows)
 * [Redireccionar saída](minitutos.md#redireccionar-saida)
+* [Información do monitor](minitutos.md#informacion-do-monitor)
+* [Información de vídeo](minitutos.md#informacion-video)
 * [](minitutos.md#)
 
 ------
@@ -68,10 +70,23 @@
 	stdout e stderr a ficheiro
 	&> ficheiro
 
+## Información do monitor
+	xdpyinfo
 
+	para a resolución
+	xdpyinfo | grep dimensions
+	xdpyinfo | grep -oP 'dimensions:\s+\K\S+'
 
+## Información vídeo
+	ffprobe -v quiet -print_format json -show_format -show_streams video.mkv
 
+	para sacar a resolución directamente
+	ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of csv=s=x:p=0 video.mp4
 
+## Pacman
+	mostrar paquetes sobrantes
+	pacman -Qdt
 
-
+	eliminar paquetes sobrantes
+	pacman -R $(pacman -Qdt)
 
