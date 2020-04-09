@@ -8,6 +8,7 @@
 * [Saber a distribución de Linux](minitutos.md#distribucion-linux)
 * [Mostrar espazo en disco](minitutos.md#mostrar-espazo-en-disco)
 * [Exemplo pandoc](minitutos.md#exemplo-pandoc)
+* [Imprimir json de forma bonita no terminal](minitutos.md#json-terminal)
 * [](minitutos.md#)
 
 ------
@@ -38,3 +39,9 @@
 	Exemplo de markdown a pdf:
 	pandoc -f markdown -t pdf referencia.md
 	tipos de formato posibles vense na páxina man
+
+## json terminal
+	jq . doc.json
+	iso mostra todo o contido, de querermos unha subparte do mesmo faríamos
+	jq .subparte doc.json
+	jq .subparte.subparte doc.json
