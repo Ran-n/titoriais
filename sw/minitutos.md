@@ -10,6 +10,7 @@
 * [Exemplo pandoc](minitutos.md#exemplo-pandoc)
 * [Imprimir json de forma bonita no terminal](minitutos.md#json-terminal)
 * [Restaurar usb (Windows)](minitutos.md#restaurar-usb-windows)
+* [Redireccionar saída](minitutos.md#redireccionar-saida)
 * [](minitutos.md#)
 
 ------
@@ -55,3 +56,22 @@
 	Create Partition Primary
 	Active
 	Format fs=Fat32 Quick
+
+## Redireccionar saída
+	stdout a ficheiro
+	> ficheiro
+	1> ficheiro
+
+	stderr a ficheiro
+	2> ficheiro
+
+	stdout e stderr a ficheiro
+	&> ficheiro
+
+
+
+
+
+
+
+
