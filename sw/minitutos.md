@@ -8,11 +8,8 @@
 * [Saber a distribución de Linux](minitutos.md#distribucion-linux)
 * [Mostrar espazo en disco](minitutos.md#mostrar-espazo-en-disco)
 * [Exemplo pandoc](minitutos.md#exemplo-pandoc)
-<<<<<<< HEAD
 * [Imprimir json de forma bonita no terminal](minitutos.md#json-terminal)
-=======
 * [Restaurar usb (Windows)](minitutos.md#restaurar-usb-windows)
->>>>>>> 71ee330a46c325121f1339cccba8fdb6b1d03ac8
 * [](minitutos.md#)
 
 ------
@@ -44,13 +41,12 @@
 	pandoc -f markdown -t pdf referencia.md
 	tipos de formato posibles vense na páxina man
 
-<<<<<<< HEAD
 ## json terminal
 	jq . doc.json
 	iso mostra todo o contido, de querermos unha subparte do mesmo faríamos
 	jq .subparte doc.json
 	jq .subparte.subparte doc.json
-=======
+	
 ## Restaurar usb windows
 	Abrir diskpart (win+r e escribir diskpart)
 	List Disk
@@ -59,4 +55,3 @@
 	Create Partition Primary
 	Active
 	Format fs=Fat32 Quick
->>>>>>> 71ee330a46c325121f1339cccba8fdb6b1d03ac8
