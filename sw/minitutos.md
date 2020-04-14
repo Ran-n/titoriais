@@ -15,6 +15,7 @@
 * [Información de vídeo](minitutos.md#informacion-video)
 * [Engadir texto ao final de cada liña dun ficheiro](minitutos.md#engadir-texto-ao-final-de-cada-liña-dun-ficheiro)
 * [Engadir texto ao comezo de cada liña dun ficheiro](minitutos.md#engadir-texto-ao-comezo-de-cada-liña-dun-ficheiro)
+* [Fusionar arquivos liña por liña](minitutos.md#fusionar-dous-liña-por-liña)
 * [](minitutos.md#)
 
 ------
@@ -97,3 +98,6 @@
 
 ## Engadir texto ao comezo de cada liña dun ficheiro
 	sed 's/^/cadea de texto a meter/' -i ficheiro
+
+## Fusionar arquivos liña por liña
+	pr -tmJ arqv1.txt arqv2.txt arqv3.txt etc > saida.txt
