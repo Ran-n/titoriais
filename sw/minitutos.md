@@ -14,6 +14,7 @@
 * [Información do monitor](minitutos.md#informacion-do-monitor)
 * [Información de vídeo](minitutos.md#informacion-video)
 * [Engadir texto ao final de cada liña dun ficheiro](minitutos.md#engadir-texto-ao-final-de-cada-liña-dun-ficheiro)
+* [Engadir texto ao comezo de cada liña dun ficheiro](minitutos.md#engadir-texto-ao-comezo-de-cada-liña-dun-ficheiro)
 * [](minitutos.md#)
 
 ------
@@ -92,5 +93,7 @@
 	pacman -R $(pacman -Qdt)
 
 ## Engadir texto ao final de cada liña dun ficheiro
-	sed -e 's/$/cadea de texto a meter/' -i ficheiro
+	sed 's/$/cadea de texto a meter/' -i ficheiro
 
+## Engadir texto ao comezo de cada liña dun ficheiro
+	sed 's/^/cadea de texto a meter/' -i ficheiro
