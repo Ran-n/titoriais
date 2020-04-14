@@ -13,6 +13,7 @@
 * [Redireccionar saída](minitutos.md#redireccionar-saida)
 * [Información do monitor](minitutos.md#informacion-do-monitor)
 * [Información de vídeo](minitutos.md#informacion-video)
+* [Engadir texto ao final de cada liña dun ficheiro](minitutos.md#engadir-texto-ao-final-de-cada-liña-dun-ficheiro)
 * [](minitutos.md#)
 
 ------
@@ -89,4 +90,7 @@
 
 	eliminar paquetes sobrantes
 	pacman -R $(pacman -Qdt)
+
+## Engadir texto ao final de cada liña dun ficheiro
+	sed -e 's/$/cadea de texto a meter/' -i ficheiro
 
