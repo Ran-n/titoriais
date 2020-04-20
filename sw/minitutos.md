@@ -1,4 +1,4 @@
-# Alternativas libres ou abertas a programas ou servizos usuais.
+# Titoriais curtos de cousas variadas.
 
 [🏠Inicio](../README.md)
 
