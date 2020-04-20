@@ -8,4 +8,4 @@
 ------
 
 ## Como gardar en pdf
-como-gardar-en-pdf.pdf
+[Como gardar en pdf](https://ran-n.github.io/tutos/sw/pdfs/como-gardar-en-pdf.pdf)
