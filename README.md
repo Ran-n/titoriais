@@ -27,7 +27,7 @@
 | [Programas interesantes para windows](sw/programas-w2.md)                						| Lista              | Windows    	  		|
 | [Compilación de minitutoriais GNU/Linux](sw/minitutos.md)					                	| Titorial           | LiGNUx (GNU/Linux)   |
 | [Guia de instalación e configuración de Archlinux](sw/install_arch_linux.md)                	| Titorial           | LiGNUx (GNU/Linux)   |
-| [Titoriais en pdf](sw/pdf/indicepdfs.md)                	| Titorial           | Windows/Lignux   |
+| [Titoriais en pdf](sw/pdfs/indicepdfs.md)                	| Titorial           | Windows/Lignux   |
 
 ### Xogos
 
