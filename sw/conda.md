@@ -16,16 +16,16 @@ conda activate NOME
 conda deactivate
 
 ## Crear un entorno
-conda create --name NOME
-conda create -n NOME python=3.6 	# para dicir versión de python
-conda create -n NOME scipy=0.15.0	# para dar un paquete en concreto
-conda create -n myenv python=3.6 scipy=0.15.0 astroid babel
+conda create --name NOME  
+conda create -n NOME python=3.6 	# para dicir versión de python  
+conda create -n NOME scipy=0.15.0	# para dar un paquete en concreto  
+conda create -n myenv python=3.6 scipy=0.15.0 astroid babel  
 
 ## Instalar un paquete
-Durante a creación do entorno como se mostrou previamente.
+Durante a creación do entorno como se mostrou previamente.  
 
-Usando o comando:
-conda install -n NOME scipy[=0.15.0]
+Usando o comando:  
+conda install -n NOME scipy[=0.15.0]  
 
-Usando o pip install dentro do entorno
-pip install scipy
+Usando o pip install dentro do entorno  
+pip install scipy  

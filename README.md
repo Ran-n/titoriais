@@ -25,10 +25,11 @@
 | [Lista de códigos "Alt"](listas/altcodes.md)	            					| Lista				 | LiGNUx - Windows		|
 | [Proceso de Librebooteo do meu Thinkpad x60](sw/libreboot-x60.md)        		| Titorial Libreboot | Thinkpad x60  		|
 | [Programas interesantes para windows](sw/programas-w2.md)                		| Lista              | Windows    	  		|
-| [Compilación de minitutoriais GNU/Linux](sw/minitutos.md)					    | Titorial           | LiGNUx (GNU/Linux)   |
+| [Compilación de minitutoriais GNU/Linux](sw/minitutos.md)					    | Recopilación       | LiGNUx (GNU/Linux)   |
 | [Guia de instalación e configuración de Archlinux](sw/install_arch_linux.md)  | Titorial           | LiGNUx (GNU/Linux)   |
 | [Titoriais en pdf](sw/pdfs/indicepdfs.md)    									| Titorial           | Windows/Lignux  		|
 | [Titorial sobre Conda](sw/conda.md)    										| Titorial           | Lignux 		 		|
+| [Info variada sobre LiGNUx](sw/lignux.md)    									| Recopilación       | Lignux 		 		|
 
 ### Xogos
 
