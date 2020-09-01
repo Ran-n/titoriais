@@ -30,6 +30,7 @@
 | [Titoriais en pdf](sw/pdfs/indicepdfs.md)    									| Titorial           | Windows/Lignux  		|
 | [Titorial sobre Conda](sw/conda.md)    										| Titorial           | Lignux 		 		|
 | [Info variada sobre LiGNUx](sw/lignux.md)    									| Recopilación       | Lignux 		 		|
+| [Subreddits Interesantes](sw/subreddits.md)  									| Recopilación       | Lignux 		 		|
 
 ### Xogos
 
