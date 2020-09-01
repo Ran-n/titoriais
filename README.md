@@ -42,7 +42,7 @@
 | ------------ 		                                                      		|
 | [Lista de Bangs de DuckDuckGo](listas/bangs.md) 					            |
 | [Lista de códigos "Alt"](listas/altcodes.md)	            					|
-| [Subreddits Interesantes](sw/subreddits.md)  									|
+| [Subreddits Interesantes](listas/subreddits.md)  									|
 
 ## Xogos
 
