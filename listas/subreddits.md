@@ -5,6 +5,7 @@
 ## Índice:
 * [Construcción de PC](subreddits.md#construcción-de-pc)
 * [Criptografía](subreddits.md#criptografía)
+* [Teclados](subreddits.md#teclados)
 
 ## Construcción de PC
 
@@ -27,3 +28,9 @@ Sobre a resolución de códigos básicamente. Podes postear un código que atopa
 
 * [Cryptography news and discussions](https://www.reddit.com/r/crypto/)\
 Preguntas teóricas, non se pode poñer retos nin nada semellante.
+
+## Teclados
+
+* [MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/)\
+Subreddit de socialización e resposta de dúbidas, ver cousas guais, enterarse de novidades, preguntar dúbidas, etc
+
