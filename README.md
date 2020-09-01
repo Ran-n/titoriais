@@ -15,14 +15,19 @@
 
 ----
 
-## Táboa de contidos.
-### Software
+## Índice:
+* [Programas](README.md#programas) 
+* [Listas](README.md#listas) 
+* [Xogos](README.md#xogos) 
+* [Audiovisual](README.md#audiovisual) 
+
+----
+
+## Programas
 
 | Nome                                                                  		| Tipo Contido       | Plataforma 	  		|
 | ------------ 		                                                      		| ------------ 		 | -------------  		|
 | [Alternativas de software libres ou abertas](sw/librealternativaswin.md)		| Lista 			 | Windows 		    	|
-| [Lista de Bangs de DuckDuckGo](listas/bangs.md) 					            | Lista				 | DuckDuckGo 	  		|
-| [Lista de códigos "Alt"](listas/altcodes.md)	            					| Lista				 | LiGNUx - Windows		|
 | [Proceso de Librebooteo do meu Thinkpad x60](sw/libreboot-x60.md)        		| Titorial Libreboot | Thinkpad x60  		|
 | [Programas interesantes para windows](sw/programas-w2.md)                		| Lista              | Windows    	  		|
 | [Compilación de minitutoriais GNU/Linux](sw/minitutos.md)					    | Recopilación       | LiGNUx (GNU/Linux)   |
@@ -30,15 +35,22 @@
 | [Titoriais en pdf](sw/pdfs/indicepdfs.md)    									| Titorial           | Windows/Lignux  		|
 | [Titorial sobre Conda](sw/conda.md)    										| Titorial           | Lignux 		 		|
 | [Info variada sobre LiGNUx](sw/lignux.md)    									| Recopilación       | Lignux 		 		|
-| [Subreddits Interesantes](sw/subreddits.md)  									| Recopilación       | Lignux 		 		|
 
-### Xogos
+## Listas
+
+| Nome                                                                  		| 
+| ------------ 		                                                      		|
+| [Lista de Bangs de DuckDuckGo](listas/bangs.md) 					            |
+| [Lista de códigos "Alt"](listas/altcodes.md)	            					|
+| [Subreddits Interesantes](sw/subreddits.md)  									|
+
+## Xogos
 
 | Nome 												| Tipo Contido 	| Plataforma 		|
 | ------------ 										| ------------ 	| ------------- 	|
 | [Guía de Minecraft](xogos/minecraft/indice.md) 	| Información 	| LiGNUx - Windows 	|
 
-### Audiovisual
+## Audiovisual
 
 | Nome                                                      | Tipo Contido       |
 | ------------ 		                                        | ------------ 		 |
