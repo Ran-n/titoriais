@@ -3,8 +3,8 @@
 [🏠Inicio](../README.md)
 
 ## Índice:
-* [Construcción de PC](subreddits.md#construccion-de-pc)
-* [Criptografía](subreddits.md#criptografia)
+* [Construcción de PC](subreddits.md#construcción-de-pc)
+* [Criptografía](subreddits.md#criptografía)
 
 ## Construcción de PC
 
