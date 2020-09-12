@@ -18,6 +18,9 @@ Subreddit máis de uso social (compartir fotos, discutir sobre partes, etc) con 
 * [HardwareSwap](https://www.reddit.com/r/hardwareswap/)\
 Básicamente un lugar onde intercambiar, comprar ou vender pezas de ordenador.
 
+* [buildapc](https://www.reddit.com/r/buildapc/)\
+Para preguntar sobre a construcción dun pc
+
 ## Criptografía
 
 * [Cryptography](https://www.reddit.com/r/cryptography/)\
