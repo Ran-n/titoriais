@@ -4,11 +4,12 @@
 
 ## Índice:
 * [Buscadores](librealternativaswin.md#buscadores)
+* [Correo Electrónico](librealternativaswin.md#correo-electrónico)
 * [Editores de Texto](librealternativaswin.md#editores-de-texto)
 * [Editores de Proxectos](librealternativaswin.md#editores-de-proxectos)
 * [Editores de Vídeos](librealternativaswin.md#editores-de-vídeos)
 * [Editores de Fotos](librealternativaswin.md#editores-de-fotos)
-* [Editores de Circuitos Lóxicos](librealternativaswin.md#editores-de-circuitos-lóxicos)
+* [Editores de Circuitos Lóxicos](librealternativaswin.md#editor-de-circuitos-lóxicos)
 * [Programa de Finanzas](librealternativaswin.md#programas-de-finanzas)
 * [Programación Lineal](librealternativaswin.md#programación-lineal)
 
@@ -16,12 +17,20 @@
 
 ## Buscadores
 
-    Recomendcións:
-    ► DuckDuckGo
+| Programa 			| Licenza    	|
+| ------------ 		| ------------- |
+| DuckDuckGo		|   			|
 
-| Programa 			| Mellor Alternativa 	|
-| ------------ 		| ------------- 		|
-| Google			| DuckDuckGo			|
+
+## Correo Electrónico.
+    
+    Recomendcións:
+    ► Tutanota
+
+| Programa 			| Licencia          | Ligazón                   | Repositorio                       |
+| ------------ 		| -------------	    | -------------             | -------------                     |
+| Tutanota			| GPLv3     		| https://mail.tutanota.com | https://github.com/tutao/tutanota |
+
 
 ## Editores de Texto.
 
@@ -42,13 +51,13 @@
     → Edicións simples:
       ► Openshot
 
-| Programa 			| Mellor Alternativa 	| Alternativa 2 |
-| ------------ 		| ------------- 		| ------------- |
-| Premiere Pro 		| Kdenlive				| Shotcut		|
-| Sony Vegas		| Kdenlive				| Shotcut		|
-| Resolve			| Kdenlive				| Shotcut		|
-| Final Cut 		| Kdenlive				| Shotcut		|
-| Windows movie maker | Openshot |  |
+| Programa 			    | Mellor Alternativa 	| Alternativa 2 |
+| ------------ 		    | ------------- 		| ------------- |
+| Premiere Pro 		    | Kdenlive				| Shotcut		|
+| Sony Vegas		    | Kdenlive				| Shotcut		|
+| Resolve			    | Kdenlive				| Shotcut		|
+| Final Cut 		    | Kdenlive				| Shotcut		|
+| Windows movie maker   | Openshot              |               |
 
 
 ## Editores de Fotos
@@ -58,11 +67,11 @@
 | Photoshop			| Gimp					|
 
 
-## Editores de Circuitos Lóxicos
+## Editor de Circuitos Lóxicos
 
-| Programa 			| Mellor Alternativa 	|
-| ------------ 		| ------------- 		|
-|					| gnucap 				|
+| Programa 			| Licenza   	| Ligazón                                           |
+| ------------ 		| ------------- | -------------                                     |
+| gnucap			|  GPLv2		| https://www.gnu.org/software/gnucap/gnucap.html   |
 
 
 ## Programas de Finanzas
@@ -71,9 +80,11 @@
 | ------------ 		| ------------- 		|
 | 					| gnucash				|
 
+
 ## Programación Lineal
-| Programa 			| Mellor Alternativa 	|
-| ------------ 		| ------------- 		|
-| 		Excel solver			| Calc solver (tools>solver)				|
-| 					| LP solve IDE				|
-| 					| R (co paquete lpSolve)				|
+| Programa 			| Mellor Alternativa 	        |
+| ------------ 		| ------------- 	        	|
+| Excel solver		| Calc solver (tools>solver)	|
+| 					| LP solve IDE				    |
+| 					| R (co paquete lpSolve)		|
+
