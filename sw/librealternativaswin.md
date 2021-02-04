@@ -29,7 +29,7 @@
 
 | Programa 			| Licencia          | Ligazón                   | Repositorio                       |
 | ------------ 		| -------------	    | -------------             | -------------                     |
-| Tutanota			| GPLv3     		| https://mail.tutanota.com | https://github.com/tutao/tutanota |
+| Tutanota			| GPLv3     		| [mail.tutanota.com](https://mail.tutanota.com) |  [github:tutoa/tutanota](https://github.com/tutao/tutanota) |
 
 
 ## Editores de Texto.
@@ -71,7 +71,7 @@
 
 | Programa 			| Licenza   	| Ligazón                                           |
 | ------------ 		| ------------- | -------------                                     |
-| gnucap			|  GPLv2		| https://www.gnu.org/software/gnucap/gnucap.html   |
+| gnucap			|  GPLv2		| [gnu/gnucap](https://www.gnu.org/software/gnucap/gnucap.html)   |
 
 
 ## Programas de Finanzas
