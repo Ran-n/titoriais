@@ -8,7 +8,7 @@
 ## Donations
 🙇🙇‍♀
 
-Bitcoin
+Bitcoin  
 bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6
 
 Monero 
