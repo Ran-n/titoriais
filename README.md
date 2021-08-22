@@ -5,8 +5,7 @@
 
 ----
 
-## Donations
-🙇🙇‍♀
+## Donations 🙇🙇‍♀
 
 | Moeda     | Dirección                                                                                         |
 | :---:     | :---                                                                                              |
