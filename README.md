@@ -1,10 +1,4 @@
 # Alternativas, consellos e tutoriais.
-----
-
-[📑Esta é a páxina web](https://ran-n.github.io/tutos/)
-
-----
-
 ## Donations 🙇🙇‍♀
 
 | Moeda     | Dirección                                                                                         |
