@@ -1,4 +1,11 @@
 # Alternativas, consellos e tutoriais.
+## Índice:
+* [Programas](README.md#programas) 
+* [Listas](README.md#listas) 
+* [Xogos](README.md#xogos) 
+* [Audiovisual](README.md#audiovisual) 
+* [Groff](README.md#groff)
+
 ## [Donations 🙇🙇](https://github.com/Ran-n/doc/blob/main/doaz%C3%B3ns.md)
 
 **Bitcoin** <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/divisas/bitcoin/bitcoin_0.svg" width="20" alt="bitcoin logo" title="Bitcoin">  
@@ -9,17 +16,6 @@ bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6
 
 **Wownero** <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/divisas/wownero/wownero_0.svg" width="20" alt="wownero logo" title="Wownero">  
 WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm
-
-----
-
-## Índice:
-* [Programas](README.md#programas) 
-* [Listas](README.md#listas) 
-* [Xogos](README.md#xogos) 
-* [Audiovisual](README.md#audiovisual) 
-* [Groff](README.md#groff)
-
----- 
 
 ## Programas
 
