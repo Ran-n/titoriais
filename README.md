@@ -13,7 +13,6 @@ WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecB
 ## Índice:
 * [Programas](README.md#programas) 
 * [Listas](README.md#listas) 
-* [Xogos](README.md#xogos) 
 * [Audiovisual](README.md#audiovisual) 
 * [Groff](README.md#groff)
 
