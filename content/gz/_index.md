@@ -30,4 +30,4 @@ search_hidden: false
 
 ---
 
-Tiutoriais
+Titoriais
