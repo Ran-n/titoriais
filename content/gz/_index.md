@@ -26,7 +26,7 @@ search_hidden: false
 #bookcase_cover_src: ''
 #bookcase_cover_src_dark: ''
 
-#type: 'bookcase'
+type: 'bookcase'
 
 ---
 
